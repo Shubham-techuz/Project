@@ -1,0 +1,54 @@
+.product-list-block {
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 40px;
+    background-color: lightgray;
+    height: 100vh;
+}
+.ul-products {
+    margin: 0;
+}
+.li-products-heading {
+    display: inline-block;
+    color: black;
+    border: 2px solid #00D1CD;
+    padding: 5px;
+    width: 160px;
+    height: 24px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.li-products-list {
+    display: inline-block;
+    color: black;
+    border: 2px solid #00D1CD;
+    padding: 5px;
+    width: 160px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.delete-btn {
+    width: 70px;
+    height: 19px;
+    font-size: 14px;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+    border: none;
+}
+.update-btn {
+    background-color: yellow;
+    text-decoration: none;
+    padding: 1px 11px;
+    margin: 0px 2px;
+    font-size: 14px;
+    color: black;
+}
+.searchInput {
+    width: 400px;
+    margin: 20px;
+    height: 40px;
+    border: 1px solid #00D1CD;
+    padding-left: 20px;
+}

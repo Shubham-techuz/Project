@@ -1,0 +1,16 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+    background-color: #000000;
+    margin: 0;
+}
+.footer h3 {
+    color: #00D1CD;
+    margin: 0;
+    padding: 0;
+}
